@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Deploying React app to Netlify
         </a>
       </header>
     </div>
