@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "prebuild": "echo $MY_KEY"
+    "prebuild": "echo $REACT_APP_MY_KEY"
   },
   "eslintConfig": {
     "extends": [
